@@ -1,4 +1,6 @@
 # my_chat_app
+- https://github.com/flutter-osaka-dev/flutter-chat
+- https://www.youtube.com/watch?v=5nDzDEsqcIU
 
 A new Flutter project.
 
