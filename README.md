@@ -1,6 +1,7 @@
 # my_chat_app
 - https://github.com/flutter-osaka-dev/flutter-chat
 - https://www.youtube.com/watch?v=5nDzDEsqcIU
+- [Flutter × Supabase でチャットを作ろう](https://zenn.dev/dshukertjr/books/flutter-supabase-chat)
 
 A new Flutter project.
 
